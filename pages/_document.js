@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body>
-        <title>gracexnn</title>
+        <title>gracexnn's Space</title>
         <Main />
         <NextScript />
       </body>
