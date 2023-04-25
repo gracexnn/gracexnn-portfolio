@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <>
       <div className="navbar bg-base-500 flex justify-between">
-        <a className="btn btn-ghost normal-case text-xl">gracexnn</a>
+        <a className="btn btn-ghost normal-case text-xl">GraceXnXX</a>
         <div className="social-icon">
           <a href="https://t.me/thearkane">
             <img
