@@ -7,14 +7,16 @@ function Card() {
             <div className="card-body">
               <h2 className="card-title">Сошиал апп</h2>
               <p>Сошиал хэрэглээний хэт төвлөрсөн байдал үүсэх нь цаашид эрсдэл дагуулна гэж бодож буй учир өөрсдийн гэсэн олон нийтийн харилцааны хэрэгсэл байсан нь дээр гэж бодон оролдож буй апп юм.
+             
+              
+              </p>
+
               <ul> <b>Ашигласан технологиуд</b>:
                 <li>★MongoDB</li>
                 <li>★ExpressJS</li>
                 <li>★ReactJS</li>
                 <li>★NodeJS</li>
               </ul>
-              
-              </p>
               <div className="card-actions justify-end">
                 <button className="btn btn-primary"><a href="https://app.haais.space" target="_blank">Сонирхох</a></button>
               </div>
@@ -29,6 +31,9 @@ function Card() {
               <h2 className="card-title">Scribble Diffusion</h2>
               <p>Хиймэл оюун ухаан ашиглан ноорог зурж түүнийгээ хүссэн стайлдаа хувирган промпт өгснөөр бодит мэт зураг болгох аппликейшны
 
+             
+              </p>
+
               <ul> <b>Ашигласан технологиуд</b>:
                 <li>★ControlNet</li>
                 <li>★NextJS</li>
@@ -36,7 +41,6 @@ function Card() {
                 <li>★NodeJS</li>
                 <li>★Upload.io</li>
               </ul>
-              </p>
               <div className="card-actions justify-end">
               <button className="btn btn-primary"><a href="https://paint.argun.ga" target="_blank">Сонирхох</a></button>
               </div>
