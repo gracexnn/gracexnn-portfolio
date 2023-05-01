@@ -26,8 +26,13 @@ function Hero() {
         <div className="relative flex-1 hidden w-0 lg:block">
           <div>
             <img
+<<<<<<< HEAD
               className="absolute inset-0 object-cover w-full h-full bg-gray-200 lg:border-l"
               src="./public/nar2.jpeg"
+=======
+              class="absolute inset-0 object-cover w-full h-full bg-gray-200 lg:border-l"
+              src="https://res.cloudinary.com/dp7ejpuvw/image/upload/v1682779820/test/275780867_3186133451707633_1009755889215039314_n_otdrzp.jpg"
+>>>>>>> 58a1842662e1e1fb2b9245e7e68d27f9d58ea503
               alt=""
             ></img>{" "}
           </div>
